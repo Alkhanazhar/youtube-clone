@@ -36,9 +36,3 @@ const Watch = () => {
 
 export default Watch;
 
-git init
-git add .
-git commit -m "first commit"
-git branch -M master
-git remote add origin https://github.com/Alkhanazhar/youtube-clone.git
-git push -u origin master
